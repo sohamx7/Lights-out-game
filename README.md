@@ -1,6 +1,6 @@
 # Lights Out
 
-Lights Out is a fun game little game. You have a grid with some cells "lighted up" initially. Each cell you turn off causes it's neigbours to turn on. Your task is to turn off all the cells in the grid. Sound fun?? Then dive in!! The project is deployed [here](https://xentro-sam.github.io/lights-out-game). \
+Lights Out is a fun game little game. You have a grid with some cells "lighted up" initially. Each cell you turn off causes it's neigbours to turn on. Your task is to turn off all the cells in the grid. Sound fun?? Then dive in!! The project is deployed [here](https://lightsoutgameboard.netlify.app/). \
 The project was created with the help of React.
 
 ## Running the project locally
